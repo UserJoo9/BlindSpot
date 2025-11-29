@@ -1,0 +1,90 @@
+{
+    "1c:59:9b:e2:32:40": {
+        "SSID": "Sabrah",
+        "Handshake": true,
+        "HSTime": "03:01 AM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/1c-59-9b-e2-32-40_Sabrah.pcap"
+    },
+    "b4:0f:3b:d3:36:61": {
+        "SSID": "DMN",
+        "Handshake": true,
+        "HSTime": "08:12 PM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/b4-0f-3b-d3-36-61_DMN.pcap"
+    },
+    "5c:03:39:a5:2d:f4": {
+        "SSID": "fighter2020",
+        "Handshake": true,
+        "HSTime": "08:48 PM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/5c-03-39-a5-2d-f4_fighter2020.pcap"
+    },
+    "40:86:cb:ca:d7:0b": {
+        "SSID": "Trend MB",
+        "Handshake": false,
+        "HSTime": ""
+    },
+    "08:aa:89:71:24:9c": {
+        "SSID": "AnbaKaras55",
+        "Handshake": true,
+        "HSTime": "02:54 AM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/08-aa-89-71-24-9c_AnbaKaras55.pcap"
+    },
+    "5c:03:39:a4:f4:e0": {
+        "SSID": "mm",
+        "Handshake": true,
+        "HSTime": "09:03 PM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/5c-03-39-a4-f4-e0_mm.pcap"
+    },
+    "b4:f5:8e:54:f7:90": {
+        "SSID": "Bero W.T.William",
+        "Handshake": true,
+        "HSTime": ""
+    },
+    "b0:ac:d2:7d:57:c3": {
+        "SSID": "2030",
+        "Handshake": true,
+        "HSTime": "08:54 PM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/b0-ac-d2-7d-57-c3_2030.pcap"
+    },
+    "b4:f5:8e:58:4d:80": {
+        "SSID": "God is love",
+        "Handshake": true,
+        "HSTime": "03:15 AM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/b4-f5-8e-58-4d-80_God is love.pcap"
+    },
+    "08:5a:11:f3:b8:59": {
+        "SSID": "Etisalat-Ewym",
+        "Handshake": true,
+        "HSTime": "03:34 AM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/08-5a-11-f3-b8-59_EtisalatEwym.pcap"
+    },
+    "b4:f5:8e:9e:b0:d8": {
+        "SSID": "MMM",
+        "Handshake": true,
+        "HSTime": "03:45 AM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/b4-f5-8e-9e-b0-d8_MMM.pcap"
+    },
+    "80:2d:1a:7d:e6:f2": {
+        "SSID": "WE_7DE6F2",
+        "Handshake": true,
+        "HSTime": "04:44 AM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/80-2d-1a-7d-e6-f2_WE7DE6F2.pcap"
+    },
+    "a4:f3:3b:c4:a1:8c": {
+        "SSID": "Ebrahim",
+        "Handshake": true,
+        "HSTime": "09:00 PM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/a4-f3-3b-c4-a1-8c_Ebrahim.pcap"
+    },
+    "b4:3a:e2:79:9e:50": {
+        "SSID": "ISAAC",
+        "Handshake": true,
+        "HSTime": "09:59 PM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/b4-3a-e2-79-9e-50_ISAAC.pcap"
+    },
+    "08:10:76:31:0a:e7": {
+        "SSID": "makris 1",
+        "Handshake": true,
+        "HSTime": "10:32 PM",
+        "HSFile": "/home/dov/Desktop/wifiGTR/BlindSpot2/handshakes/08-10-76-31-0a-e7_makris 1.pcap"
+    }
+}
